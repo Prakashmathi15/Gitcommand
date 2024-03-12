@@ -1,17 +1,7 @@
-# login
-
-hai   welcome
-  cccc
-
-
-
-
-
-
 # Git Command
 
 ~~~
-PS D:\> git clone https://github.com/Prakashmathi2004/login.git
+PS D:\> git clone https://github.com/Prakashmathi05/login.git
 ~~~         
 Cloning into 'login'...         
 remote: Enumerating objects: 3, done.  
@@ -21,7 +11,7 @@ Receiving objects: 100% (3/3), done.
 
 ~~~
 PS D:\login> git add -A
-PS D:\login> git config user.name "Prakashmathi2004"         
+PS D:\login> git config user.name "Prakashmathi05"         
 PS D:\login> git config user.email "prakashmathi2004@gmail.com"         
 PS D:\login> git commit -m "first commit"
 
