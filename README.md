@@ -10,9 +10,11 @@ hai   welcome
 
 # Git Command
 
-  PS D:\> git clone https://github.com/Prakashmathi2004/login.git
-Cloning into 'login'...
-remote: Enumerating objects: 3, done.
+~~~
+PS D:\> git clone https://github.com/Prakashmathi2004/login.git
+~~~         
+Cloning into 'login'...         
+remote: Enumerating objects: 3, done.  
 remote: Counting objects: 100% (3/3), done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (3/3), done.
